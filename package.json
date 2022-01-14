@@ -1,0 +1,19 @@
+{
+  "name": "express_adam",
+  "version": "1.0.0",
+  "description": "express",
+  "main": "server.js",
+  "scripts": {
+    "test": "express",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "express"
+  ],
+  "author": "Adam Azouz",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.2",
+    "nodemon": "^2.0.15"
+  }
+}
